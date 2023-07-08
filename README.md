@@ -1,6 +1,7 @@
 # Competitive Programming Solutions
 My name is Thang , you can call me Ishigami !
 This repository contains my solutions to various competitive programming problems from [Codeforces](https://codeforces.com/).
+![image](https://github.com/lshigami/CompetitivePrograming/assets/135859127/5c017823-fd72-4ebc-b39d-3fc8c312e19f)
 
 ## Getting Started
 
